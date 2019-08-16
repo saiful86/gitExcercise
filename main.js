@@ -1,5 +1,5 @@
-var  title = "Hello Rish";
+var  title = "Hello Rishash";
 
-var message = "This is testing file";
+var message = "This is testing file- for message";
 
-var discription = "This is discription file"
+var discription = "This is testing file- for description"
